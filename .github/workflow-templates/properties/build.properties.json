@@ -1,0 +1,4 @@
+{
+    "name": "Build",
+    "description": "Builds and packages a mod, suitable for a CI type workflow"
+}
