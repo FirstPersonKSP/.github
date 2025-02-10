@@ -5,9 +5,11 @@ on:
     branches: [ $default-branch ]
     paths:
       - '**/*.cs'
+      - '**/*.csproj'
   pull_request:
     paths:
       - '**/*.cs'
+      - '**/*.csproj'
   workflow_dispatch:
   workflow_call:
 
