@@ -13,6 +13,7 @@ All things related to IVA and immersive KSP mods.
 * [KSA IVA Upgrade](https://github.com/FirstPersonKSP/KSA-IVA-Upgrade) - High-quality IVAs for a few stock and modded parts
 * [ProbeControlRoom](https://github.com/FirstPersonKSP/KSP-ProbeControlRoom) - Adds a control room to control probes from "IVA"
 * [RasterPropMonitor](https://github.com/FirstPersonKSP/RasterPropMonitor) - Drives interactive props in IVA
+* [MOARdV's Avionics Systems](https://github.com/FirstPersonKSP/AvionicsSystems) - A successor to RasterPropMonitor
 * [Reviva](https://github.com/FirstPersonKSP/reviva) - Allows switching beetween different IVAs for the same part
 
 # External Repository Recommendations
