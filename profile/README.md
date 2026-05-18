@@ -15,10 +15,10 @@ All things related to IVA and immersive KSP mods.
 * [RasterPropMonitor](https://github.com/FirstPersonKSP/RasterPropMonitor) - Drives interactive props in IVA
 * [MOARdV's Avionics Systems](https://github.com/FirstPersonKSP/AvionicsSystems) - A successor to RasterPropMonitor
 * [Reviva](https://github.com/FirstPersonKSP/reviva) - Allows switching beetween different IVAs for the same part
+* [ThroughTheEyes](https://github.com/FirstPersonKSP/Through-The-Eyes) - First person mode for EVA
 
 # External Repository Recommendations
 
-* [ThroughTheEyes](https://github.com/linuxgurugamer/Through-The-Eyes) - First person mode for EVA
 * [G-Effects](https://github.com/AMPW-german/G-Effects-Reaffected) - Blackouts and Redouts for high-g maneuvers
 * See [RasterPropMonitor's Readme](https://github.com/FirstPersonKSP/RasterPropMonitor?tab=readme-ov-file#moar-ivas) for more recommendations
 * See [FreeIva's Compatibility List](https://github.com/FirstPersonKSP/FreeIva/wiki#compatibility) for more parts and IVAs
